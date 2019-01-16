@@ -1,2 +1,3 @@
-Computer Vision @ NTU, Fall 2018
 # ComputerVision
+
+Computer Vision @ NTU, Fall 2018
